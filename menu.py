@@ -14,7 +14,7 @@ class Menu:
       if purchased_item in self.items:
         bill += self.items[purchased_item]
     return bill
-
+# able to calculate total bill
 
   #brunch
 brunch_items = {
